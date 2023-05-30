@@ -12,5 +12,5 @@ Sample data: http://py4e-data.dr-chuck.net/regex_sum_42.txt (There are 90 values
 Actual data: http://py4e-data.dr-chuck.net/regex_sum_1806427.txt (There are 64 values and the sum ends with 900)
 These links open in a new window. Make sure to save the file into the same folder as you will be writing your Python program. Note: Each student will have a distinct data file for the assignment - so only use your own data file for analysis.
 
-<h2>Soluations<>
+<h2>Soluations</h2>
 <img src="https://github.com/Sandunrmst/extracting-data-regular-expressions/assets/49017841/04e7b29e-b918-4006-8441-5b7d8d1e25bc" alt="Extracting Data With Regular Expressions">
